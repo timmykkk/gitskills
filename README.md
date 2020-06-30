@@ -1,3 +1,4 @@
 # gitskills
 creating a new branch is quick.
-new % simple
+new and simple
+
